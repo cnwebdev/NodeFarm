@@ -5,4 +5,3 @@ A simple Node Farm App build with HTML/CSS, Javascript and NodeJs. The project i
 ## App Screenshot
 
 ## Code Snippets
-
