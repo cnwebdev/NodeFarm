@@ -8,9 +8,9 @@ A simple Node Farm App build with HTML/CSS, Javascript and NodeJs. The project i
 
 ![Overview Page](img/nfapp01.png)
 
-### Product Detail
+### Product Details
 
-![Product Detail Page](img/nfapp02.png)
+![Product Details Page](img/nfapp02.png)
 
 ## Code Snippets
 
